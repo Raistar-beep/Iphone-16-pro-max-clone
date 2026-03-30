@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(209, 228, 244);
+}
+
+.phone{
+    height: 20rem;
+    width: 11rem;
+    border: solid 2px rgb(195, 192, 192);
+    border-radius: 20% / 10%;
+    margin-top: 3rem;
+    margin-left: 3rem;
+    background: white;
+}
+
+.cemsec{
+    height: 5rem;
+    width: 5rem;
+    border: solid 1px black;
+    border-radius: 26%;
+    margin-top:.5rem;
+    margin-left: .4rem;
+    box-shadow: 0px 0px 3px black;
+}
+
+.cam{
+    height: 1.8rem;
+    width: 1.8rem;
+    border: solid 2px silver ;
+    border-radius: 50%;
+    margin-top: .3rem;
+    margin-left: .2rem;
+    box-shadow: 0px 0px 2px grey;
+    background: black;
+}
+
+.cam2{
+    height: 1.8rem;
+    width: 1.8rem;
+    border: solid 2px silver ;
+    border-radius: 50%;
+    margin-top: -3.1rem;
+    margin-left: 2.2rem;
+    box-shadow: 0px 0px 2px grey;
+    background: black;
+}
+
+.flash{
+    height:.8rem ;
+    width: .8rem;
+    border-radius: 50%;
+    background:black;
+    border: solid silver;
+    margin-left: 2.8rem;
+    margin-top: .1rem;
+}
+
+.sens{
+    height: .5rem;
+    width: .5rem;
+    border: solid 1px black;
+    border-radius: 50%;
+    margin-left: 3em;
+    margin-top: -4rem;
+    background: linear-gradient(to top, white, black);
+}
+
+.logo img{
+    height: 2.2rem;
+    margin-left: 4.5rem;
+    margin-top: 3rem;
+
+}
